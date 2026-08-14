@@ -5,9 +5,9 @@
 ---
 
 ### ✏️ TAREA DEL ESTUDIANTE:
-Edita este archivo en GitHub y cambia la palabra **[TU NOMBRE AQUÍ]** por tu nombre real.
+Edita este archivo en GitHub y cambia la palabra **[YAREL HERNÁNDEZ]** por tu nombre real.
 
-> **Estudiante:** <mark>[TU NOMBRE AQUÍ]</mark>
+> **Estudiante:** <mark>[YAREL HERNÁNDEZ]</mark>
 
 ---
 
